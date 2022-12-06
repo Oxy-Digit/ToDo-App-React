@@ -1,4 +1,5 @@
 # My first React App
+Simple ToDo application writing with React.js
 
 ### `npm i react`
 command that starts the installation of React and dependencies
