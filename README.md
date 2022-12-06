@@ -6,4 +6,4 @@ command that starts the installation of React and dependencies
 
 ### `npm start`
 
-Open [http://localhost:3000] to view it in your browser.
+Open (http://localhost:3000) to view it in your browser.
